@@ -3,4 +3,3 @@ In this career portfolio I attempted to use the grid system to place each item a
 ![Screenshot (33)](https://user-images.githubusercontent.com/69650837/100750800-28648580-33ac-11eb-8f39-e6a41ce19722.png)
 
 
-https://corder25.github.io/Career-Portfolio/
